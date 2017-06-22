@@ -52,19 +52,12 @@ h1, h2{
   background-color: #000033 ;
   color: white;
 }
-#courses{
-  margin-left: 25%;
-  margin-right: 25%;
-}
+
 
 #description{
   text-indent: 50px;
 }
 
-#projects{
-  margin-left: 25%;
-  margin-right: 25%;
-}
 
 .image3{
   position: absolute;
